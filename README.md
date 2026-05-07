@@ -3,7 +3,7 @@
 ## Pontificia Universidad Javeriana
 **Materia:** Procesamiento de Alto Volumen de Datos  
 **Autor:** Felix David Cordova Garcia  
-**Fecha:** Abril - Mayo 2026
+**Fecha:** Mayo 2026
 
 ---
 
